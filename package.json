@@ -1,0 +1,15 @@
+{
+  "name": "parallaxproject",
+  "version": "1.0.0",
+  "description": "parallax project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Evers",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "jquery-parallax.js": "^1.5.0"
+  }
+}

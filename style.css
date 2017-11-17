@@ -1,0 +1,49 @@
+.banner {
+	text-align: center;
+	position: absolute;
+	z-index: 1;
+	background-color: whitesmoke;
+	width: 100%;
+	top: 0;
+}
+
+.background_images {
+	position: absolute;
+	top: 0;
+}
+
+img {
+	width: 100%;
+	margin: 0;
+}
+
+.addContent {
+	position: absolute;
+	top: 750px;
+	z-index: 1;
+	background-color: pink;
+	width: 100%;
+	text-align: center;
+	height: 500px;
+}
+
+.addContent1 {
+	position: absolute;
+	top: 1800px;
+	z-index: 1;
+	background-color: yellow;
+	width: 100%;
+	text-align: center;
+	height: 500px;
+	
+}
+
+.addContent2 {
+	position: absolute;
+	top: 2800px;
+	z-index: 1;
+	background-color: blue;
+	width: 100%;
+	text-align: center;
+	height: 300px;
+}
